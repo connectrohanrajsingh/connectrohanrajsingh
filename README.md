@@ -11,9 +11,9 @@
 ### 🛠️ **Tech Stack I Work With:**
 - **Languages:** Python 🐍 | PHP 🐘 | JavaScript ⚡
 - **Backend:** Core Python 🛠️ | Django ❤️ | Core PHP ⚡ | Laravel 🔥
-- **Frontend:** HTML5, CSS3, Bootstrap
-- **Database:** MySQL 🗄️ | MariaDB
-- **Tools:** Git 🧰 | GitHub 🖥️ | VS Code
+- **Frontend:** HTML5 🦴 | CSS3 🎨 | Bootstrap 📦
+- **Database:** MySQL 🗄️ | MariaDB 📜
+- **Tools:** Git 🧰 | GitHub ☁️ | VS Code 💻
 
 ---
 
