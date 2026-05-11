@@ -59,11 +59,5 @@ Feel free to explore my repositories and share your views.
 ---
 ![Profile_Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connectrohanrajsingh&theme=dark)
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=connectrohanrajsingh&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectrohanrajsingh&layout=compact&theme=dark" />
-</div>
-
-
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/connectrohanrajsingh/connectrohanrajsingh/output/github-contribution-grid-snake-dark.svg)
