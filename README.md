@@ -1,4 +1,4 @@
-# 🙏 नमस्ते, I'm **Rohan Singh** (aka *Luckee*)
+# 🙏 नमस्ते, I'm **Rohan Singh**
 
 - 🧠 **Passionate Developer**
 - 💻 **Python & PHP Enthusiast**
